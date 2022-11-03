@@ -1,7 +1,7 @@
 # S01E05
-Code samples and other resources from the Build on [AWS Open Source episode, S01E05](). This episode featured the AWS open source newsletters [131](https://dev.to/aws/aws-open-source-news-and-updates-131-nci) and [132]()
+Code samples and other resources from the Build on [AWS Open Source episode, S01E05](). This episode featured the AWS open source newsletters [131](https://dev.to/aws/aws-open-source-news-and-updates-131-nci) and [132](https://dev.to/aws/aws-open-source-news-and-updates-132-556j)
 
-See replay here : <>
+See replay here : https://www.twitch.tv/videos/1630135246?filter=archives&sort=time
 
 ## Special Guest  
 Abhishek Gupta is a Principal Developer Advocate at AWS and in this episode he spoke about using Golang to define your infrastructure as code using projects like CDK8s
